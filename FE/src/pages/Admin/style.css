@@ -1,0 +1,22 @@
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr{
+    width: 100%;
+    height: 80px;
+    border: 1px solid black;
+}
+td{
+    width: 20%;
+    height: inherit;
+}
+td img{
+    width: 50%;
+    height: 100%;
+}
+td,th{
+    border: 1px solid black;
+    text-align: center;
+}
